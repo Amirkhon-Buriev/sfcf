@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container{
+      max-width: 1440px;
+      margin: 0 auto;
+  }
+
+
+.box{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
